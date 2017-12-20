@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAppshitung</string>
+    <string name="pjg">Panjang</string>
+    <string name="lbr">Lebar</string>
+    <string name="tng">Tinggi</string>
+    <string name="hit">hitung</string>
+    <string name="ketik">Sisi</string>
+    <string name="keluar">hasil</string>
+</resources>
